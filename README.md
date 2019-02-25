@@ -8,7 +8,7 @@ Are you a ‘cool kid’ techy who sings Ruby Ruby Ruby by Kaiser Chiefs in your
 
 Do you want to be part of a digital transformation for one of the world’s most stylish hospitality companies?
 
-Do you want to be in a family, team-orientated culture working in one of the most sophisticated and elaborate parts of London?
+Do you want to be in a friendly, team-orientated culture working in one of the most sophisticated and elaborate parts of London?
  
 Yes? Splendid! Let’s get technical shall we…
 
