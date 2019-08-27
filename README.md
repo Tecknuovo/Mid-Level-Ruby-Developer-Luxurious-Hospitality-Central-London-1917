@@ -34,10 +34,10 @@ Based in Soho the development team work from the brands headquarters and one of 
 
 
 # Very dreamy indeed! What type of projects could I be working on?
-•	Integration of existing POS systems into the new central platform.
-•	Building payment API’s to connect with a variety of different payment gateways.
-•	Building mobile native mobile applications (Swift and Android).
-•	Creation of a social network for business for use by their members.
+* Integration of existing POS systems into the new central platform.
+* Building payment API’s to connect with a variety of different payment gateways.
+* Building mobile native mobile applications (Swift and Android).
+* Creation of a social network for business for use by their members.
 
 
 # Yes, yes and YES! I’m so down! Do I need a particular set of skills? 
